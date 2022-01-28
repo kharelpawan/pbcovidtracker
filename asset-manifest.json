@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pbcovidtracker/static/css/main.51c89803.css",
+    "main.js": "/pbcovidtracker/static/js/main.cd72160f.js",
+    "static/js/787.dd8f0c6d.chunk.js": "/pbcovidtracker/static/js/787.dd8f0c6d.chunk.js",
+    "static/media/covid.png": "/pbcovidtracker/static/media/covid.57fb39dbc9ea259a0ab2.png",
+    "static/media/smile.png": "/pbcovidtracker/static/media/smile.93e1ddd00f13095184a4.png",
+    "static/media/nepal.png": "/pbcovidtracker/static/media/nepal.b924cadda472f505849f.png",
+    "index.html": "/pbcovidtracker/index.html",
+    "main.51c89803.css.map": "/pbcovidtracker/static/css/main.51c89803.css.map",
+    "main.cd72160f.js.map": "/pbcovidtracker/static/js/main.cd72160f.js.map",
+    "787.dd8f0c6d.chunk.js.map": "/pbcovidtracker/static/js/787.dd8f0c6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c89803.css",
+    "static/js/main.cd72160f.js"
+  ]
+}
